@@ -71,5 +71,6 @@
 ## 2. Tampilan Pencarian
 ![2021-07-05 (6)](https://user-images.githubusercontent.com/81462436/124499266-ef7c0b80-dde7-11eb-87db-01760fbedc3a.png)
 ## 3. Tampilan Ketika sudah di upload gambar
-![2021-07-05 (4)](https://user-images.githubusercontent.com/81462436/124498323-57c9ed80-dde6-11eb-82e2-2c57d585cbc5.png)
+![2021-07-05 (8)](https://user-images.githubusercontent.com/81462436/124499862-edff1300-dde8-11eb-998a-b6c9269aab6b.png)
+
 
